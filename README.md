@@ -1,2 +1,6 @@
-# DAA-
-Some of the most basic codes in python as well as c++
+# DAA
+Some of the most basic codes in Python and C/C++
+
+## License
+
+[MIT License](LICENSE)
