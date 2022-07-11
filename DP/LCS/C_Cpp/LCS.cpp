@@ -1,4 +1,3 @@
-// Submitted LCS1 this for understanding
 #include <cstdlib>
 #include <cstring>
 #include <iostream>
